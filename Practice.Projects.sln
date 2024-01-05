@@ -5,7 +5,7 @@ VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Console.Apps", "Console.Apps", "{39175AF5-09ED-49FC-95DE-90D6331E60AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String.Manipulation", "String.Manipulation\String.Manipulation.csproj", "{4D1D8FC0-1EE5-4B3B-8377-FE2F7593A0F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String.Manipulation", "String.Manipulation\String.Manipulation.csproj", "{4D1D8FC0-1EE5-4B3B-8377-FE2F7593A0F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
